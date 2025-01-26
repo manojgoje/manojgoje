@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQG-SHASDef47w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1694384010548?e=1736380800&v=beta&t=Cxg0j5_35hiDpp87Uwd5ufn5Vd9yiyXbfBpHAbbjkV8)
+![MasterHead]([https://media.licdn.com/dms/image/v2/D4D12AQG-SHASDef47w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1694384010548?e=1736380800&v=beta&t=Cxg0j5_35hiDpp87Uwd5ufn5Vd9yiyXbfBpHAbbjkV8](https://wallpapercave.com/wp/wp7250222.jpg))
 <h1 align="center">Hi 👋, I'm Manoj Goje</h1>
 <h3 align="center">🚀 Full Stack Java Developer | Spring Boot , ReactJS & DevOps Tools Enthusiast | Passionate Problem Solver</h3>
 
